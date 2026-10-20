@@ -1,0 +1,9 @@
+node_modules/
+build/
+.harness/
+.workbuddy/
+.claude/
+.codex/
+validation/**/artifacts/
+*.log
+.DS_Store
